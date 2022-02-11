@@ -1,0 +1,28 @@
+/** Este es nuestra pagina en boostrap 
+@autor David Servia Morales
+*//* general layout */
+@font-face {
+    font-family: texto;
+    src: url("./fuentes/sewer.ttf");
+}
+
+@font-face {
+    font-family: titulos;
+    src: url("../fuentes/stocky.ttf");
+}
+body {
+background-image:url("../images/background.jpg");
+font-family: texto;
+background-size:100%;
+}
+/*logo de la pagina nav bar*/
+#logo{width:32px;}
+
+#bailarin{width:200px;}
+.navbar {z-index:99;}
+
+#Introduction h1 {font-family:titulos;}
+
+#Introduction p {font-size: 1.5em;
+}
+#Hystory h1 {font-family:titulos;}
