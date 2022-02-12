@@ -10,4 +10,7 @@ El codigo tiene licencia GNU.<br>
 Espero que este trabajo sirva de ayuda a otro estudiante para poder tener ideas nuevas.<br>
 El codigo esta detallado con comentarios, para guiar a su lector.<br>
 Todas las imagenes son extraidas de google. <br>
+![image](https://user-images.githubusercontent.com/91873325/153717975-752cb7a8-b030-4ab0-a4fb-42401e8cc88a.png)
+<h1>QR de la pagina </h1>
+
 
